@@ -13,7 +13,7 @@ You must have Python 3.9 or later installed. Earlier versions of python may not 
    `pip install -r requirements.txt`
 5. Run the application with following command from terminal:
 
-   `streamlit run pencil_sketch.py`
+   `streamlit run pencil_sketch_webcam.py`
 
 # Screen Shots
 ![image](https://github.com/user-attachments/assets/f9a5000d-441f-4caf-b755-371caf79de01)
